@@ -1,0 +1,67 @@
+ .Encabezado{
+    font-size: 20px;
+	color: #000;
+    font-family: "Arial";
+}
+.Title{
+     font-size: 15px;
+     color: gray;
+     margin: 0, auto;
+}
+p{
+  font-size: 15px;
+  color: gray;
+  margin: 0, auto;
+}
+div{
+    width: 200px;
+    margin: 0 left; 
+    text-align: left;
+	font-family: "Arial";
+	font-size: 15px;
+}
+img{
+    width: 200px;
+}
+
+
+
+/*@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+body{
+    background: black;
+    color: #fff;
+}
+,container{
+   width: 578px;
+   font-size: 
+    
+    margin: 100px auto; /*Centrar
+}*/
+
+/*@import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Caption|PT+Sans+Narrow');
+
+h1 {
+    font-size: 20px;
+    font-family: "Pt Sans Narrow"
+    text-transform: uppercase; 
+}
+
+h2 {
+  
+}
+
+p {
+
+}
+
+hr {
+    width: 60px;
+    height: 2px;
+    background: #000;
+}
+
+div{
+    width: 205px;
+    margin: 100px auto; /*centrar:arriba,abajo  dere,izq/*
+}/*
